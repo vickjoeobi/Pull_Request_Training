@@ -4,14 +4,14 @@
 # Intro on Pull Request
 ![Pull Request Guide (6)](https://user-images.githubusercontent.com/55033116/144445585-11c442b7-f850-49a7-95d5-bbea690fb149.png)
 ## If you are requesting for a pull request
-You are like a student waiting for you code to be reviewed and approved.
+You are like a student waiting for your code to be reviewed and approved.
 
 ## If you are the code reviewer
-You are like the teacher marking an exam question. If the student performs well, it will be approved, else you will make some comment and request for more change. 
+You are like the teacher marking an exam question. If the student performs well, it will be approved, else you will make some comment and request for more changes. 
 
 # Let's dive into GitHub Lab
 The training will take place at [GitHub Learning Lab](https://lab.github.com/githubtraining/reviewing-pull-requests)
 
-[GitHub Learning Lab](https://lab.github.com/) is a place where you grow your tech skill by completing lots of func and interactive projects. Check it out today at [https://lab.github.com](https://lab.github.com/)
+[GitHub Learning Lab](https://lab.github.com/) is a place where you grow your tech skills by completing lots of fun and interactive projects. Check it out at [https://lab.github.com](https://lab.github.com/)
 
-# ===> [NEXT](https://lab.github.com/githubtraining/reviewing-pull-requests)
+# ➡️ [NEXT](https://lab.github.com/githubtraining/reviewing-pull-requests)
